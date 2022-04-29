@@ -1,0 +1,33 @@
+package linkedlist;
+
+public class SinglyLinkedList {
+	
+	class Node
+	{
+		int data;
+		Node head;
+		
+		
+		
+		public Node(int data, Node head) {
+			super();
+			this.data = data;
+			this.head = head;
+		}
+	}
+
+		Node root;
+		void push(int element)
+		{
+			if()
+		}
+		
+		
+		
+	}
+	
+	
+	
+	
+
+}

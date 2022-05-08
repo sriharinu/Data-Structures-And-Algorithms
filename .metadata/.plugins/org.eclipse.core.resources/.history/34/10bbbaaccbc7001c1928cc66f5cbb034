@@ -1,5 +1,0 @@
-package doublylinkedlist;
-
-public interface DoublyLinkedList {
-
-}

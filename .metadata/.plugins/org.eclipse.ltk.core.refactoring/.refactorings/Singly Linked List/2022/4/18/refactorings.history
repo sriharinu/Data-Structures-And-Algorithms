@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;linkedlist&apos; to &apos;singlylinkedlist&apos;&#x0D;&#x0A;- Original project: &apos;Singly Linked List&apos;&#x0D;&#x0A;- Original element: &apos;Singly Linked List/src/linkedlist&apos;&#x0D;&#x0A;- Renamed element: &apos;Singly Linked List/src/singlylinkedlist&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;linkedlist&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;linkedlist" name="singlylinkedlist" qualified="false" references="true" stamp="1651244157749" textual="false" version="1.0"/>
-</session>

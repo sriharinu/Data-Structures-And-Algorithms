@@ -6,8 +6,8 @@ public class SelectionSort {
 
 	public static void main(String[] args) 
 	{
-	selectionSort(arr);
-    printArray();
+	  selectionSort(arr);
+          printArray();
 	}
 	
 	static void selectionSort(int arr[])
@@ -18,8 +18,8 @@ public class SelectionSort {
 			int temp=0;
 			for(int j=i+1;j<arr.length;j++)
 			{				
-				if(arr[min_index]>arr[j])
-					min_index=j;			
+			   if(arr[min_index]>arr[j])
+			   	min_index=j;			
 			}
 			temp=arr[min_index];        //swap
 			arr[min_index]=arr[i];
